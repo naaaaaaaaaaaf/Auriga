@@ -1,0 +1,12 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  }
+  h3 {
+    padding: .5em .75em;
+    background-color: #f6f6f6;
+  }  
